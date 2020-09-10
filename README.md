@@ -1,5 +1,7 @@
 
-My name is WayneChu and I'm a backend developer/DevOps engineer. I'm from Taipei, living in Xinyi. You can find me on [![Facebook][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is WayneChu and I'm a backend developer/DevOps engineer. I'm from Taipei, living in Xinyi. 
+
+You can find me on [![Facebook][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
