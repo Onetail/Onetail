@@ -49,7 +49,7 @@ You can find me on [![Facebook][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 [1]: https://facebook.com/Wayne0515
 [2]: https://github.com/Onetail
-[3]: https://www.linkedin.com/in/育瑋-褚-7686a2157/
+[3]: https://www.linkedin.com/in/wayne-chu-7686a2157/
 
 
 <!-- Resources -->
