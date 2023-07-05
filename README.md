@@ -13,6 +13,9 @@
 * [力力力科技](https://zzzstock.zzztech.com.tw/)      **CTO**
 * [歐特有限公司](https://oatech.com.tw/)    **技術顧問**
 
+## SubAccount
+- [WayneChu](https://github.com/WayneChu0515)
+
 My name is WayneChu,  I'm from Taipei
 You can find me on [![Facebook][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
