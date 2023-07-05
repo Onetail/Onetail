@@ -1,7 +1,21 @@
 
-My name is WayneChu and I'm a backend developer/DevOps engineer. I'm from Taipei, living in Xinyi. 
 
+現在你看到的是一個專注於程式技術的工程師 
+<br><br>
+
+當一天2️⃣4️⃣小時有8️⃣小時在技術上，一週就花了5️⃣6️⃣小時。<br>
+這個世界上有很多事，都是當你開始認真對待以後，才會發現其中包含的樂趣。<br>
+當你對待事物越認真，對待工作越投入，你會發現能力與樂趣接踵而來。<br>
+因為所謂的**熱愛**，其實就是不斷的堅持和投入。
+
+## 💼 Position
+* [簡結科技](https://www.simpos.com.tw)   **資深後端工程師**
+* [力力力科技](https://zzzstock.zzztech.com.tw/)      **CTO**
+* [歐特有限公司](https://oatech.com.tw/)    **技術顧問**
+
+My name is WayneChu,  I'm from Taipei
 You can find me on [![Facebook][1.2]][1],  or on [![LinkedIn][3.2]][3].
+
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -50,6 +64,8 @@ You can find me on [![Facebook][1.2]][1],  or on [![LinkedIn][3.2]][3].
 [1]: https://facebook.com/Wayne0515
 [2]: https://github.com/Onetail
 [3]: https://www.linkedin.com/in/wayne-chu-7686a2157/
+
+
 
 
 <!-- Resources -->
